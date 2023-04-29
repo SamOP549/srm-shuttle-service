@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1027643873449",
+    "project_id": "bustrak-17284",
+    "storage_bucket": "bustrak-17284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027643873449:android:ca7b7cc8c593a77adb31b8",
+        "android_client_info": {
+          "package_name": "com.example.live_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027643873449-2s8o6hpfbu27jfcijic7u1d4pnqftt52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvKAD6GHRpbaeG4AQVdiCH0Ay020Cp3SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027643873449-2s8o6hpfbu27jfcijic7u1d4pnqftt52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027643873449-pei1q4tg04jvbchkqapqcvuuhu5guukd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plotter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027643873449:android:b27737ecea91654adb31b8",
+        "android_client_info": {
+          "package_name": "com.example.plotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027643873449-2s8o6hpfbu27jfcijic7u1d4pnqftt52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvKAD6GHRpbaeG4AQVdiCH0Ay020Cp3SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027643873449-2s8o6hpfbu27jfcijic7u1d4pnqftt52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027643873449-pei1q4tg04jvbchkqapqcvuuhu5guukd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plotter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
